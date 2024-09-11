@@ -6,7 +6,7 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 ## Instructions
 1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 
-2. Import the necessary PySpark SQL functions for this assignment.
+2. Import the necessary PySpark SQL functions for this assignment. (**IMPORTANT** : Make sure that you look up what the current version of Spark is and install that version. Otherwise you **WILL** get an error message.)
 
 3. Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
 
